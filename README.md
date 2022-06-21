@@ -9,4 +9,4 @@ The main reason for death occurs due to the delay in the rescue of the victims d
 
 
 
-<img width="208" alt="image" src="https://user-images.githubusercontent.com/92565931/174914647-5265bc15-0e4a-4c9a-ab86-40e8238f07b2.png">
+<img width="500" height="500" alt="image" src="https://user-images.githubusercontent.com/92565931/174914647-5265bc15-0e4a-4c9a-ab86-40e8238f07b2.png">
